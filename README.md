@@ -8,3 +8,8 @@ cessing, 29:8055–8068, 2020.
 https://arxiv.org/abs/2007.09990
 
 https://github.com/kanezaki/pytorch-unsupervised-segmentation-tip/
+
+# Getting start on anaconda prompt 
+path\to\the\program\demo_RISE.py -- input .\path\to\images\folder\image.jpg
+
+
